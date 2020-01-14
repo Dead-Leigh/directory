@@ -1,20 +1,26 @@
-h1 {
+/* h1 {
 text-align: center;
 
 }
 
 .forms{
   text-align: center;
+} */
 
+.input{
+  height: 500px;
+  width: auto;
 }
 
 .box{
-  border-style: solid;
+
   text-align-last: center;
   border-radius: 8px;
+  width: 150px;
+  height: 250px;
 }
 
-button{
+.delbnt{
   background-color: red;
   color: white;
 }
