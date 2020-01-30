@@ -36,7 +36,8 @@ $('.submit-btn').click(function(e) {
     obj.last = last;
     obj.email = email;
     obj.phoneNumber = phoneNumber;
-    console.log(obj);
+    // console.log(obj);
+
 
     // let newarray = ["first", "last", "email", "phonenumber"];
 
