@@ -64,7 +64,7 @@ function addTo() {
         <img src="img/contact.png" height="75" width="30">
         <p>Name: ` + myGobalArray[x].first + " " + myGobalArray[x].last + ` </p>
         <p>Email: `+ myGobalArray[x].email +` </p>
-        <p>Phone number: `+ myGobalArray[x].phonenumber +`</p>
+        <p>Phone number: `+ myGobalArray[x].phoneNumber +`</p>
         <button class= "delbnt" id="` + x + `">Delete</button>
     </div>
 
