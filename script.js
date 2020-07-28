@@ -116,8 +116,15 @@ function toNumber (str) {
 
 
 
+//sort by last name..
+// 1. toLowerCase
+//
+// - first letter of last name to Cap
+fucntion toSort(sortnames){
+  let lastName = last.toLowrCase();
+  sort(lastName);
 
-
+}
 
 // After you implement the above code.
 // There are still some final touches you can work on.
